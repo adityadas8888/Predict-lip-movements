@@ -39,5 +39,6 @@ References:
 
 •https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/<br>
 •https://github.com/sachinsdate/lip-movement-net<br>
-•https://towardsdatascience.com/face-detection-for-beginners-<br>
+•https://towardsdatascience.com/face-detection-for-beginners-
 e58e8f21aad9
+
