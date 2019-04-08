@@ -9,9 +9,8 @@ Team Members:<br>
 •Aditya Das – 1001675762<br>
 •Naman Jain Vimal Kumar – 1001670153
 <br>
-<div border:1px solid black;>
-<div float="left"> <img src="https://github.com/adityadas8888/Predict-lip-movements/blob/master/images/flow.png"</div>
-<div> <b>Project Work Flow explanation:</b>
+<img src="https://github.com/adityadas8888/Predict-lip-movements/blob/master/images/flow.png"
+<b>Project Work Flow explanation:</b>
 1. We are working on a Kinect 360 for this project. The idea is to first get the
 video feed and the depth data from the Kinect Camera.
 2. Then after taking in the video feed, we are segmenting and detecting the
@@ -38,5 +37,3 @@ References:
 •https://github.com/sachinsdate/lip-movement-net<br>
 •https://towardsdatascience.com/face-detection-for-beginners-<br>
 e58e8f21aad9
-</div>
-<div>
