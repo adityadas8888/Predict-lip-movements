@@ -5,14 +5,9 @@ The goal of the project is to predict the words spoken by a particular subject b
 movements. The subject is expected to speak a single language. The program is expected to predict the
 words
 spoken as close to real time as possible and preferably in sentences.
-<b>Team Members:</b>
-<br>
-•Aditya Das – 1001675762
-•Naman Jain Vimal Kumar – 1001670153
-<br>
-<img src="https://github.com/adityadas8888/Predict-lip-movements/blob/master/images/flow.png" align='left' height=600px>
 <b>Project Work Flow explanation:</b>
 <br>
+<img src="https://github.com/adityadas8888/Predict-lip-movements/blob/master/images/flow.png" align='left' height=600px>
 1. We are working on a Kinect 360 for this project. The idea is to first get the
 video feed and the depth data from the Kinect Camera.
 2. Then after taking in the video feed, we are segmenting and detecting the
@@ -34,6 +29,12 @@ lips.
 Note:
 •Attached videos with the repo showing the project’s progress.
 <br>
+<b>Team Members:</b>
+<br>
+•Aditya Das – 1001675762
+•Naman Jain Vimal Kumar – 1001670153
+<br>
+
 References:
 •https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/
 •https://github.com/sachinsdate/lip-movement-net
