@@ -8,7 +8,7 @@ Team Members:
 •Aditya Das – 1001675762
 •Naman Jain Vimal Kumar – 1001670153
 <div align="center">
-<div align="left"> <img src="https://github.com/adityadas8888/PredictMovieSuccess/tree/master/images/im1.png"</div>
+<div align="left"> <img src="https://github.com/adityadas8888/PredictMovieSuccess/tree/master/images/flow.png"</div>
 <div align="right"> <b>Project Work Flow explanation:</b>
 1. We are working on a Kinect 360 for this project. The idea is to first get the
 video feed and the depth data from the Kinect Camera.
