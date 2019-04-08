@@ -9,6 +9,7 @@ Team Members:
 •Aditya Das – 1001675762
 •Naman Jain Vimal Kumar – 1001670153
 <br>
+<div>
 <div float="left"> <img src="https://github.com/adityadas8888/Predict-lip-movements/blob/master/images/flow.png"</div>
 <div float="right"> <b>Project Work Flow explanation:</b>
 1. We are working on a Kinect 360 for this project. The idea is to first get the
@@ -26,13 +27,15 @@ trivial issue and most probably will be solved soon.
 2. The next plans are to train a Neural Model on videos with transcript or
 webcam recordings with a dictionary to train the Neural Model on reading
 lips.
+ <br>
 Note:
 •Attached videos with the repo showing the project’s progress.
+<br>
 References:
 
 •https://ibug.doc.ic.ac.uk/resources/facial-point-annotations/
 •https://github.com/sachinsdate/lip-movement-net
 •https://towardsdatascience.com/face-detection-for-beginners-
 e58e8f21aad9
-
 </div>
+<div>
