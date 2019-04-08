@@ -1,4 +1,4 @@
-<h3><b>Project Title:</b></h3>Prediction of real time speech from lip and jaw movements.
+<i><h3><b>Project Title:</b></h3>Prediction of real time speech from lip and jaw movements.</i>
 <h4>Project Summary:</h4>
 The goal of the project is to predict the words spoken by a particular subject by analyzing the lip and jaw
 movements. The subject is expected to speak a single language. The program is expected to predict the
