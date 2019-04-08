@@ -20,6 +20,7 @@ face.
 currently just getting the coordinates of the lips.
 4. The future plans are to calibrate the camera and do the feature detection on
 a Kinect 360.
+ <br>
 <b>Future Project Work Flow explanation:</b>
 1. We are currently facing issues connecting the Kinect’s ‘OpenNi’ library,
 ‘primesense’ and ‘libfreenect’ to the OpenCV codebase. But it seems to be a
