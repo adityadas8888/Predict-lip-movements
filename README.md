@@ -1,9 +1,7 @@
-<<<<<<< refs/remotes/origin/master
-<<<<<<< refs/remotes/origin/master
-<<<<<<<
-<i><h3><b>Project Title:</b></h3>Prediction of real time speech from lip and jaw movements.</i>
+
+<i><h4><b>Project Title:</b></h4>Prediction of real time speech from lip and jaw movements.</i>
 =======
-<h3><b>Project Title:</b></h3>Prediction of real time speech from lip and jaw movements.
+<h4><b>Project Title:</b></h4>Prediction of real time speech from lip and jaw movements.
 >>>>>>> Read me update
 =======
 <i><h3><b>Project Title:</b></h3>Prediction of real time speech from lip and jaw movements.</i>
