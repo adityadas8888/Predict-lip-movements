@@ -10,8 +10,8 @@ Team Members:
 •Naman Jain Vimal Kumar – 1001670153
 <br>
 <div align="center">
-<div align="left"> <img src="https://github.com/adityadas8888/Predict-lip-movements/blob/master/images/flow.png"</div>
-<div align="right"> <b>Project Work Flow explanation:</b>
+<div float="left"> <img src="https://github.com/adityadas8888/Predict-lip-movements/blob/master/images/flow.png"</div>
+<div float="right"> <b>Project Work Flow explanation:</b>
 1. We are working on a Kinect 360 for this project. The idea is to first get the
 video feed and the depth data from the Kinect Camera.
 2. Then after taking in the video feed, we are segmenting and detecting the
