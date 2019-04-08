@@ -5,8 +5,8 @@ movements. The subject is expected to speak a single language. The program is ex
 words
 spoken as close to real time as possible and preferably in sentences.
 <br>
-Team Members:
-•Aditya Das – 1001675762
+Team Members:<br>
+•Aditya Das – 1001675762<br>
 •Naman Jain Vimal Kumar – 1001670153
 <br>
 <div border 1px>
