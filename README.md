@@ -9,7 +9,7 @@ Team Members:<br>
 •Aditya Das – 1001675762<br>
 •Naman Jain Vimal Kumar – 1001670153
 <br>
-<img src="https://github.com/adityadas8888/Predict-lip-movements/blob/master/images/flow.png"
+<img src="https://github.com/adityadas8888/Predict-lip-movements/blob/master/images/flow.png" align='left'>
 <b>Project Work Flow explanation:</b>
 1. We are working on a Kinect 360 for this project. The idea is to first get the
 video feed and the depth data from the Kinect Camera.
