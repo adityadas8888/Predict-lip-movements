@@ -1,0 +1,7 @@
+Lip detection.mkv -  This video shows the lip feature extraction from a webcam's feed
+Lip detection 2 people.mkv -  This video shows the lip feature extraction from a webcam's feed on 2 people
+Lip detection with coordinates - This video shows the coordinates of the extracted lip from the webcam's feed.
+Kinect Demo - This is a working demo showing the Libfreenect-glview 3d depth data of the Kinect 360 camera.
+
+
+
