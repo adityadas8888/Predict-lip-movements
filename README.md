@@ -9,8 +9,9 @@ Team Members:<br>
 •Aditya Das – 1001675762<br>
 •Naman Jain Vimal Kumar – 1001670153
 <br>
-<img src="https://github.com/adityadas8888/Predict-lip-movements/blob/master/images/flow.png" align='left'>
+<img src="https://github.com/adityadas8888/Predict-lip-movements/blob/master/images/flow.png" align='left' height=300px>
 <b>Project Work Flow explanation:</b>
+<br>
 1. We are working on a Kinect 360 for this project. The idea is to first get the
 video feed and the depth data from the Kinect Camera.
 2. Then after taking in the video feed, we are segmenting and detecting the
@@ -21,6 +22,7 @@ currently just getting the coordinates of the lips.
 a Kinect 360.
  <br>
 <b>Future Project Work Flow explanation:</b>
+<br>
 1. We are currently facing issues connecting the Kinect’s ‘OpenNi’ library,
 ‘primesense’ and ‘libfreenect’ to the OpenCV codebase. But it seems to be a
 trivial issue and most probably will be solved soon.
