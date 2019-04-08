@@ -13,7 +13,8 @@ Team Members:<br>
 <img src="https://github.com/adityadas8888/Predict-lip-movements/blob/master/images/flow.png" align='left' height=600px>
 <b>Project Work Flow explanation:</b>
 <br>
-Team Members:
+<b>Team Members:</b>
+<br>
 •Aditya Das – 1001675762
 •Naman Jain Vimal Kumar – 1001670153
 <br>
